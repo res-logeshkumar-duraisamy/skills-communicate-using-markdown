@@ -2,3 +2,4 @@
 ### Using the `index.md` file
 
 ![Image of Yotacat](https://octodex.github.com/images/yaktocat.png)
+alt-text
